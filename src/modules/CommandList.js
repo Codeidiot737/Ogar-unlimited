@@ -528,7 +528,7 @@ console.log("[PFMSG] Your request has been sent" );
                  
                 }
              } 
-        console.log("[Console] Player "+id+" Was Trolled")
+        console.log("[Console] Player "+id+" Was Trolled");
         
     },
     
@@ -548,7 +548,7 @@ console.log("[PFMSG] Your request has been sent" );
                  }
     }
     }
-        console.log ("That player cannot rejoin now")
+        console.log ("That player cannot rejoin now");
     },
     
     merge: function(gameServer,split) { 
